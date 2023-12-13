@@ -13,7 +13,6 @@ window = tk.TK()  =>> créer une fenetre avec pour 'nom' window, besoin de tkint
 window.geometry('largeurxlongeur') => pour changer la taille de la fenêtre.
 
 window.title('le nom') => pour changer le nom de la fenêtre.
-
 window.mainloop() => permet de faire en sorte que tout s'update sur le canva. Le code apres est executé lors de
 
 la fermeture de la fenêtre.
